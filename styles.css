@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;    
+    background-color: rgb(236, 226, 226);
+}
+
+#btnGuardarEdit{
+    display: none;
+}
+
+#btnRegistrarContacto{
+    display: block;
+}
+
+h1, h3, h6{
+    text-align: center;
+}
+
+body{
+    margin: 5%;
+    padding: 5%;
+    background-color: rgb(236, 226, 226);
+    border: double 20px rgb(151, 186, 169);
+    width: 80%;
+    
+}
+main{
+    width: 80%;
+}
+
+#contactos{
+    width: 100%;
+    border-bottom: dotted 10px rgb(151, 186, 169);
+    padding-bottom: 2%;   
+}
+
+#listarContactos{
+    width: 100%;
+    margin-left: 100px;
+}
+
+
+.tabla-Contactos{
+    width: 100%;
+    margin-left: 150px;
+    margin-top: 10%;
+}
+
+#ContactosGuardados{
+    margin-top: 3%;
+    margin-left: 30%;
+}
+
+footer{
+    margin-bottom: -5%;
+    color: rgb(125, 124, 124);
+}
